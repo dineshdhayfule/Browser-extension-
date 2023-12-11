@@ -1,0 +1,22 @@
+body {
+    width: 400px;
+    height: 200px;
+    min-height:250px:
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: powderblue;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: black;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+    border: 2px solid rgb(6, 0, 0);
+    box-shadow: 10px 10px rgb(5, 0, 0);
+}
+
